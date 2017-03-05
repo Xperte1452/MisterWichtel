@@ -1,0 +1,9 @@
+C:\Users\Pascal\OneDrive\Projekte\WhatsWichtel\WhatsWichtel\obj\Release\WhatsWichtel.WichtelForm.resources
+C:\Users\Pascal\OneDrive\Projekte\WhatsWichtel\WhatsWichtel\obj\Release\WhatsWichtel.csproj.GenerateResource.Cache
+C:\Users\Pascal\OneDrive\Projekte\WhatsWichtel\WhatsWichtel\bin\Release\Mister Wichtel.exe.config
+C:\Users\Pascal\OneDrive\Projekte\WhatsWichtel\WhatsWichtel\bin\Release\Mister Wichtel.exe
+C:\Users\Pascal\OneDrive\Projekte\WhatsWichtel\WhatsWichtel\bin\Release\Mister Wichtel.pdb
+C:\Users\Pascal\OneDrive\Projekte\WhatsWichtel\WhatsWichtel\obj\Release\MisterWichtel.Properties.Resources.resources
+C:\Users\Pascal\OneDrive\Projekte\WhatsWichtel\WhatsWichtel\obj\Release\Mister Wichtel.exe
+C:\Users\Pascal\OneDrive\Projekte\WhatsWichtel\WhatsWichtel\obj\Release\Mister Wichtel.pdb
+C:\Users\Pascal\OneDrive\Projekte\WhatsWichtel\WhatsWichtel\obj\Release\WhatsWichtel.csprojResolveAssemblyReference.cache

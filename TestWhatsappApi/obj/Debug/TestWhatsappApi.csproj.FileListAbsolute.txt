@@ -1,0 +1,37 @@
+c:\users\pascalbarth\documents\visual studio 2015\Projects\WhatsWichtel\TestWhatsappApi\bin\Debug\TestWhatsappApi.exe.config
+c:\users\pascalbarth\documents\visual studio 2015\Projects\WhatsWichtel\TestWhatsappApi\bin\Debug\TestWhatsappApi.exe
+c:\users\pascalbarth\documents\visual studio 2015\Projects\WhatsWichtel\TestWhatsappApi\bin\Debug\TestWhatsappApi.pdb
+c:\users\pascalbarth\documents\visual studio 2015\Projects\WhatsWichtel\TestWhatsappApi\obj\Debug\TestWhatsappApi.exe
+c:\users\pascalbarth\documents\visual studio 2015\Projects\WhatsWichtel\TestWhatsappApi\obj\Debug\TestWhatsappApi.pdb
+c:\users\pascalbarth\documents\visual studio 2015\Projects\WhatsWichtel\TestWhatsappApi\obj\Debug\TestWhatsappApi.csprojResolveAssemblyReference.cache
+c:\users\pascalbarth\documents\visual studio 2015\Projects\WhatsWichtel\TestWhatsappApi\bin\Debug\AE.Net.Mail.dll
+c:\users\pascalbarth\documents\visual studio 2015\Projects\WhatsWichtel\TestWhatsappApi\bin\Debug\AE.Net.Mail.pdb
+C:\Users\PascalBarth\OneDrive\Projekte\WhatsWichtel\TestWhatsappApi\bin\Debug\TestWhatsappApi.exe.config
+C:\Users\PascalBarth\OneDrive\Projekte\WhatsWichtel\TestWhatsappApi\obj\Debug\TestWhatsappApi.exe
+C:\Users\PascalBarth\OneDrive\Projekte\WhatsWichtel\TestWhatsappApi\obj\Debug\TestWhatsappApi.pdb
+C:\Users\PascalBarth\OneDrive\Projekte\WhatsWichtel\TestWhatsappApi\bin\Debug\TestWhatsappApi.exe
+C:\Users\PascalBarth\OneDrive\Projekte\WhatsWichtel\TestWhatsappApi\bin\Debug\TestWhatsappApi.pdb
+C:\Users\PascalBarth\OneDrive\Projekte\WhatsWichtel\TestWhatsappApi\bin\Debug\AE.Net.Mail.dll
+C:\Users\PascalBarth\OneDrive\Projekte\WhatsWichtel\TestWhatsappApi\bin\Debug\AE.Net.Mail.pdb
+C:\Users\PascalBarth\OneDrive\Projekte\WhatsWichtel\TestWhatsappApi\obj\Debug\TestWhatsappApi.csprojResolveAssemblyReference.cache
+C:\Users\Pascal\OneDrive\Projekte\WhatsWichtel\TestWhatsappApi\bin\Debug\TestWhatsappApi.exe.config
+C:\Users\Pascal\OneDrive\Projekte\WhatsWichtel\TestWhatsappApi\bin\Debug\TestWhatsappApi.exe
+C:\Users\Pascal\OneDrive\Projekte\WhatsWichtel\TestWhatsappApi\bin\Debug\TestWhatsappApi.pdb
+C:\Users\Pascal\OneDrive\Projekte\WhatsWichtel\TestWhatsappApi\bin\Debug\AE.Net.Mail.dll
+C:\Users\Pascal\OneDrive\Projekte\WhatsWichtel\TestWhatsappApi\bin\Debug\Batman.Core.Communication.SMTP.dll
+C:\Users\Pascal\OneDrive\Projekte\WhatsWichtel\TestWhatsappApi\bin\Debug\Batman.Core.dll
+C:\Users\Pascal\OneDrive\Projekte\WhatsWichtel\TestWhatsappApi\bin\Debug\Utilities.DataTypes.dll
+C:\Users\Pascal\OneDrive\Projekte\WhatsWichtel\TestWhatsappApi\bin\Debug\Utilities.IO.dll
+C:\Users\Pascal\OneDrive\Projekte\WhatsWichtel\TestWhatsappApi\bin\Debug\Utilities.Reflection.dll
+C:\Users\Pascal\OneDrive\Projekte\WhatsWichtel\TestWhatsappApi\bin\Debug\AE.Net.Mail.pdb
+C:\Users\Pascal\OneDrive\Projekte\WhatsWichtel\TestWhatsappApi\bin\Debug\Batman.Core.pdb
+C:\Users\Pascal\OneDrive\Projekte\WhatsWichtel\TestWhatsappApi\bin\Debug\Batman.Core.xml
+C:\Users\Pascal\OneDrive\Projekte\WhatsWichtel\TestWhatsappApi\bin\Debug\Batman.Core.Communication.SMTP.pdb
+C:\Users\Pascal\OneDrive\Projekte\WhatsWichtel\TestWhatsappApi\bin\Debug\Utilities.DataTypes.pdb
+C:\Users\Pascal\OneDrive\Projekte\WhatsWichtel\TestWhatsappApi\bin\Debug\Utilities.DataTypes.xml
+C:\Users\Pascal\OneDrive\Projekte\WhatsWichtel\TestWhatsappApi\bin\Debug\Utilities.IO.pdb
+C:\Users\Pascal\OneDrive\Projekte\WhatsWichtel\TestWhatsappApi\bin\Debug\Utilities.IO.xml
+C:\Users\Pascal\OneDrive\Projekte\WhatsWichtel\TestWhatsappApi\bin\Debug\Utilities.Reflection.pdb
+C:\Users\Pascal\OneDrive\Projekte\WhatsWichtel\TestWhatsappApi\bin\Debug\Utilities.Reflection.xml
+C:\Users\Pascal\OneDrive\Projekte\WhatsWichtel\TestWhatsappApi\obj\Debug\TestWhatsappApi.exe
+C:\Users\Pascal\OneDrive\Projekte\WhatsWichtel\TestWhatsappApi\obj\Debug\TestWhatsappApi.pdb
