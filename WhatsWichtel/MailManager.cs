@@ -52,7 +52,7 @@ namespace WhatsWichtel
             //Eventhandler verbinden
             //smtpClient.SendCompleted += new
             //SendCompletedEventHandler(SendCompletedCallback);
-
+            //Hallo Welt
             this.WichtelWindow = window;
         }
 
